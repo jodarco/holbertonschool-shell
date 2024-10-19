@@ -1,3 +1,2 @@
 #!/bin/bash
-# Este script imprime la ruta absoluta del directorio de trabajo actual
-pwd
+# Este script imprime la ruta absoluta del directorio de trabajo actual pwd
